@@ -59,19 +59,19 @@ Criar uma solução integrada de automação que combine segurança e conforto t
 - **ESP32**: Microcontrolador responsável pelo processamento da lógica de controle, interface com sensores/atuadores e tomada de decisões do sistema
 
 ### Fluxograma
-![Diagrama em Blocos](projeto_final/img/fluxograma.png)
+![Diagrama em Blocos](img/fluxograma.png)
 
 
 ## Fase 2: Implementação
 
 ### Diagrama Esquemático
-![Diagrama Esquemático do Projeto](projeto_final/img/diagrama_projeto_wokwi.png)
+![Diagrama Esquemático do Projeto](img/diagrama_projeto_wokwi.png)
 
 
 ## Fase 3: Documentação e Apresentação
 
 ### Fotos do Protótipo
-![Foto do Projeto](projeto_final/img/projeto.jpeg)
+![Foto do Projeto](img/projeto.jpeg)
 
 ### Apresentação de Slides
 [Apresentação](https://www.canva.com/design/DAGrL0_3H8Y/5wbdBqv5nkYjR6DFNuIOcw/edit?utm_content=DAGrL0_3H8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
